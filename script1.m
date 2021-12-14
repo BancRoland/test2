@@ -1,3 +1,4 @@
+%Fruit -> Tropical
 %first line
 %second line
 
@@ -5,3 +6,4 @@
 %pearl
 
 orange=5;
+pineapple=352;
