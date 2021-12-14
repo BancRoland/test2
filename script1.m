@@ -4,4 +4,4 @@
 %apple
 %pearl
 
-cat=5;
+orange=5;
